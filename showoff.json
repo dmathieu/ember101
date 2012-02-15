@@ -1,6 +1,8 @@
 {
-  "name": "My Preso",
+  "name": "Ember 101",
   "sections": [
-    {"section": "emberjs"}
+    {"section": "start"},
+    {"section": "emberjs"},
+    {"section": "finally"}
   ]
 }
