@@ -1,5 +1,8 @@
-!SLIDE transition=fade
+!SLIDE bullets transition=fade
 # EmberJS
+
+* [emberjs.com](http://emberjs.com)
+* [ember101.heroku.com](http://ember101.heroku.com/)
 
 !SLIDE bullets incremental transition=fade
 # A little bit of (short) history
