@@ -43,7 +43,11 @@
 ## that's nicer
 
     @@@javascript
-    Handlebars.compile("Hello {{firstname}}");
+    view = Ember.View.create({
+      template: Handlebars.compile("Hello {{firstname}}"),
+      firstname: "Sheldon"
+    });
+    view.appendTo('body');
 
 !SLIDE bullets incremental transition=fade
 # You can automate the precompilation of course
